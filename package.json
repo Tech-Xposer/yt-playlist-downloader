@@ -1,0 +1,23 @@
+{
+  "name": "youtube-dl",
+  "version": "1.0.0",
+  "description": "Quickly download videos from YouTube playlists with the YouTube Playlist Downloader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tech-Xposer/yt-playlist-downloader.git"
+  },
+  "author": "Ashutosh Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tech-Xposer/yt-playlist-downloader/issues"
+  },
+  "homepage": "https://github.com/Tech-Xposer/yt-playlist-downloader#readme",
+  "dependencies": {
+    "ytdl-core": "^4.11.5",
+    "ytpl": "^2.3.0"
+  }
+}

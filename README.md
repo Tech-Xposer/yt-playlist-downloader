@@ -51,4 +51,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **Name:** Ashutosh Sharma
 - **Email:** [asharma89505@gmail.com](mailto:asharma89505@gmail.com)
 - **GitHub:** [github.com/Tech-Xposer](https://github.com/Tech-Xposer/)
-- **LinkedIn:** [linkedin.com/in/asharma73](linkedin.com/in/asharma73)
+- **LinkedIn:** [linkedin.com/in/asharma73](https://linkedin.com/in/asharma73)

@@ -40,6 +40,13 @@ This project is a Node.js script that downloads all videos from a specified YouT
     node index.js
     ```
 
+# Downloading Videos
+![alt text](./ss/s1.png)
+
+![alt text](./ss/ss2.png)
+
+![alt text](./ss/ss3.png)
+
 
 # Where Videos Will Be Stored
 The downloaded videos will be stored in a folder named **Downloads** in the same directory where the script (index.js) is located. Each video will be saved with a filename in the format Video X.mp4, where X is the sequential number of the video in the playlist.
